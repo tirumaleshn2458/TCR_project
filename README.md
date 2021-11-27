@@ -1,1 +1,1 @@
-# Project title: CANCER DEATH RATE PREDICTION
+# Project title: Cancer death rate prediction
